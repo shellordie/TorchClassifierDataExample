@@ -1,1 +1,3 @@
+#! /bin/bash/
+
 jupyter notebook
