@@ -1,3 +1,3 @@
 notebook
 torchvision
-git+https://github.com/shellordie/TorchClassifierData.git@main
+TorchClassifierData
