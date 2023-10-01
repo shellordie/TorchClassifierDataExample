@@ -9,16 +9,16 @@ jupyter notebook to showcase a classification task with pytorch on custom datase
 Create a virtualenv
 
 ```bash
-virtualenv veenv
+virtualenv venv
 
 ```
 
 ### step 2
 
-Install the requirements.txt
+Install dependencies
 
 ```bash
-pip install -r requirements.txt
+./install.sh
 
 ```
 
